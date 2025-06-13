@@ -1,1 +1,1 @@
-# Praveen
+# Ecommerce mini project
